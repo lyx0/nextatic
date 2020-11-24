@@ -1,7 +1,6 @@
 title: Footer
 links:
-  - label: About us
-    page: about
-
-  - label: info@mybrand.com
-    href: mailto:info@mybrand.com
+  - label: lyx0@protonmail.ch
+    href: mailto:lyx0@protonmail.ch
+  - label: Boilerplate used
+    href: https://github.com/tancredi/nextatic
