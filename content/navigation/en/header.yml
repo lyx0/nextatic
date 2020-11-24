@@ -1,7 +1,4 @@
 title: Header
 links:
-  - label: About us
-    page: about
-
-  - label: Contacts
-    page: contacts
+  - label: NryBot Commands
+    page: nrybot-commands
