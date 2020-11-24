@@ -1,4 +1,6 @@
 title: Header
 links:
+  - label: NryBot
+    href: https://github.com/lyx0/nrybot-dev
   - label: NryBot Commands
     page: nrybot-commands
