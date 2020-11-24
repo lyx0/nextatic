@@ -1,6 +1,10 @@
 ---
 name: Home
-title: Welcome to my smol site
+title: lyx0
 created: 2020-10-02T16:40:01.429Z
 ---
+Welcome to my smol site
+
+
+
 This is the place where I try out different stuff to learn how everything works.
