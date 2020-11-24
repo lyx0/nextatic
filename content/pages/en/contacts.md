@@ -1,7 +1,6 @@
 ---
-name: Contacts
-title: Contacts
+name: Contact
+title: Contact
 created: 2020-10-02T22:37:57.850Z
 ---
-
-Contacts page content
+Twitch.tv/cemetarywaltz
