@@ -135,7 +135,7 @@ created: 2020-11-24T15:01:06.776Z
   Returns a random Taylor Swift quote.
 * **RandomWaifu**
 
-  Usage: ()randomwaifu
+  Usage: ()randomwaifu, ()waifu
 
   Returns a random SFW waifu picture from thiswaifudoesnotexist. Only works in #cemetarywaltz
 * **RandomXkd**
