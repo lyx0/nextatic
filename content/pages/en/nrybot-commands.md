@@ -5,7 +5,7 @@ created: 2020-11-24T15:01:06.776Z
 ---
 * **BTTV**
 
-  Usage: ()bttv \[query]
+  Usage: ()bttv \[emote]
 
   Returns a search for the given emote
 * **Botinfo**
@@ -138,22 +138,18 @@ created: 2020-11-24T15:01:06.776Z
   Usage: ()randomwaifu, ()waifu
 
   Returns a random SFW waifu picture from thiswaifudoesnotexist. Only works in #cemetarywaltz
-* **RandomXkd**
+* **RandomXkcd**
 
   Usage: ()randomxkcd
 
   Returns a random xkcd comic
-* **RandomXkd**
 
-  Usage: ()randomxkcd
-
-  Returns a random xkcd comic
 * **Stocks**
 
   Usage: ()stocks [Stock Sign]
 
   Returns information about the Stock of given [Stock Sign]
-* **Stocks**
+* **Vanish**
 
   Usage: ()vanish
 
