@@ -7,6 +7,6 @@ Der Hauptgrund meiner Seite ist es, einen Platz zur Dokumentation meines Twitch 
 
 Commands: <https://lyx0.ee/en/nrybot-commands>
 
-Github: [https://github.com/lyx0/n](https://github.com/lyx0/nrybot-dev)ourybot
+Github: [https://github.com/lyx0/n](https://github.com/lyx0/nourybot)
 
-[](https://www.twitch.tv/cemetarywaltz)Twitch: [https://www.twitch.tv/n](https://www.twitch.tv/cemetarywaltz)ouryxd
+[](https://www.twitch.tv/nouryxd)Twitch: [https://www.twitch.tv/n](https://www.twitch.tv/nouryxd)
