@@ -37,7 +37,7 @@ title: NryBot Commands
 
   Usage: ()dank
 
-  Returns a FeelsDankMan ASCII. Only works in #cemetarywaltz
+  Returns a FeelsDankMan ASCII. Only works in #noury
 * **DankTwitchIRC**
 
   Usage: ()danktwitchirc
@@ -137,7 +137,7 @@ title: NryBot Commands
 
   Usage: ()randomwaifu, ()waifu
 
-  Returns a random SFW waifu picture from thiswaifudoesnotexist. Only works in #cemetarywaltz
+  Returns a random SFW waifu picture from thiswaifudoesnotexist. Only works in #nouryxd
 * **RandomXkcd**
 
   Usage: ()randomxkcd

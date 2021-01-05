@@ -37,7 +37,7 @@ created: 2020-11-24T15:01:06.776Z
 
   Usage: ()dank
 
-  Returns a FeelsDankMan ASCII. Only works in #cemetarywaltz
+  Returns a FeelsDankMan ASCII. Only works in #nouryxd
 * **DankTwitchIRC**
 
   Usage: ()danktwitchirc
@@ -92,7 +92,7 @@ created: 2020-11-24T15:01:06.776Z
 
   Usage: ()ohno
 
-  Returns a Ohno ASCII. Only works in #cemetarywaltz
+  Returns a Ohno ASCII. Only works in #nouryxd
 * **Ping**
 
   Usage: ()ping
@@ -137,7 +137,8 @@ created: 2020-11-24T15:01:06.776Z
 
   Usage: ()randomwaifu, ()waifu
 
-  Returns a random SFW waifu picture from thiswaifudoesnotexist. Only works in #cemetarywaltz
+  Returns a random SFW waifu picture from thiswaifudoesnotexist. Only works in #nouryxd
+
 * **RandomXkcd**
 
   Usage: ()randomxkcd
