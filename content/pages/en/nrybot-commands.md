@@ -23,6 +23,11 @@ created: 2020-11-24T15:01:06.776Z
   Usage: ()coin, ()cf
 
   Returns either heads or tails
+* Color
+
+  Usage: ()color or ()colour
+
+  Returns your color in Twitch chat
 * **Colorname**
 
   Usage: ()colorname
@@ -43,31 +48,21 @@ created: 2020-11-24T15:01:06.776Z
   Usage: ()danktwitchirc
 
   Returns a Link to https://robotty.github.io/dank-twitch-irc/
-* **DuckDuckGo**
-
-  Usage: ()ddg [search]
-
-  Returns a returns a DuckDuckGo search link for [query]
 * **Echo**
 
-  Usage: ()echo [string]
+  Usage: ()echo \[string]
 
-  Returns [query]. Only works for messages from myself.
+  Returns \[query]. Only works for messages from myself.
 * **EnterDungeonReminder**
 
   Usage:
 
-  Automatically creates a reminder for myself to enter the dungeon.
+  Automatically creates a reminder for myself(nouryxd) to enter the dungeon in #teischente.
 * **FFZ**
 
-  Usage: ()ffz [emote]
+  Usage: ()ffz \[emote]
 
-  Returns a link to an FFZ search for [emote]
-* **Google**
-
-  Usage: ()google [query]
-
-  Returns a Google search for [query]
+  Returns a link to an FFZ search for \[emote]
 * **Help**
 
   Usage: ()help
@@ -107,7 +102,7 @@ created: 2020-11-24T15:01:06.776Z
 
   Usage:
 
-  Whenever a new Raid started sends out masspings for specific users.
+  Whenever a new Raid started sends out masspings for specific users. Only works in #teischente for specific users
 * **RandomCat**
 
   Usage: ()rc, ()randomcat
@@ -138,18 +133,16 @@ created: 2020-11-24T15:01:06.776Z
   Usage: ()randomwaifu, ()waifu
 
   Returns a random SFW waifu picture from thiswaifudoesnotexist. Only works in #nouryxd
-
 * **RandomXkcd**
 
   Usage: ()randomxkcd
 
   Returns a random xkcd comic
-
 * **Stocks**
 
-  Usage: ()stocks [Stock Sign]
+  Usage: ()stocks \[Stock Sign]
 
-  Returns information about the Stock of given [Stock Sign]
+  Returns information about the Stock of given \[Stock Sign]
 * **Vanish**
 
   Usage: ()vanish
@@ -157,13 +150,11 @@ created: 2020-11-24T15:01:06.776Z
   If the bot has moderator status, times the user out for 1 second.
 * **Weather**
 
-  Usage: ()weather [Location]
+  Usage: ()weather \[Location]
 
-  Returns the weather at the [Location]
+  Returns the weather at the \[Location]
 * **Xkcd**
 
   Usage: ()xkcd 
 
   Returns the current xkcd comic.
-
-

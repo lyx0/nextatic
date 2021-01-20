@@ -1,7 +1,7 @@
 ---
 title: NryBot Commands
 ---
-**Diese Seite ist leider nur in Englisch verfuegbar.**
+
 
 * **BTTV**
 
@@ -23,6 +23,11 @@ title: NryBot Commands
   Usage: ()coin, ()cf
 
   Returns either heads or tails
+* Color
+
+  Usage: ()color or ()colour
+
+  Returns your color in Twitch chat
 * **Colorname**
 
   Usage: ()colorname
@@ -37,17 +42,12 @@ title: NryBot Commands
 
   Usage: ()dank
 
-  Returns a FeelsDankMan ASCII. Only works in #noury
+  Returns a FeelsDankMan ASCII. Only works in #nouryxd
 * **DankTwitchIRC**
 
   Usage: ()danktwitchirc
 
   Returns a Link to https://robotty.github.io/dank-twitch-irc/
-* **DuckDuckGo**
-
-  Usage: ()ddg \[search]
-
-  Returns a returns a DuckDuckGo search link for \[query]
 * **Echo**
 
   Usage: ()echo \[string]
@@ -57,17 +57,12 @@ title: NryBot Commands
 
   Usage:
 
-  Automatically creates a reminder for myself to enter the dungeon.
+  Automatically creates a reminder for myself(nouryxd) to enter the dungeon in #teischente.
 * **FFZ**
 
   Usage: ()ffz \[emote]
 
   Returns a link to an FFZ search for \[emote]
-* **Google**
-
-  Usage: ()google \[query]
-
-  Returns a Google search for \[query]
 * **Help**
 
   Usage: ()help
@@ -92,7 +87,7 @@ title: NryBot Commands
 
   Usage: ()ohno
 
-  Returns a Ohno ASCII. Only works in #cemetarywaltz
+  Returns a Ohno ASCII. Only works in #nouryxd
 * **Ping**
 
   Usage: ()ping
@@ -107,7 +102,7 @@ title: NryBot Commands
 
   Usage:
 
-  Whenever a new Raid started sends out masspings for specific users.
+  Whenever a new Raid started sends out masspings for specific users. Only works in #teischente for specific users
 * **RandomCat**
 
   Usage: ()rc, ()randomcat
